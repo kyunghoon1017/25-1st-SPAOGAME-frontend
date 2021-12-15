@@ -18,7 +18,7 @@
 
 ## 🎬 프로젝트 구현 영상
 
-- 🔗 [영상 링크]
+
 
 ## ⚙ 적용 기술
 - **Front-End** : HTML5, CSS3, React, SASS, JSX
